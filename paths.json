@@ -2,6 +2,8 @@
   "mappings": [
     "/content/italo/language-masters/en:/",
     "/content/italo/language-masters/en/:/en/",
+    "/content/italo/language-masters/it:/",
+    "/content/italo/language-masters/it/:/it/",
     "/content/italo/language-masters/fr/:/fr/",
     "/content/italo/language-masters/fr:/fr",
     "/content/italo/language-masters/es/:/es/",
