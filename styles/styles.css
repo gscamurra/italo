@@ -346,8 +346,8 @@ body.green-theme {
 }
 /*brand header footer brand themes*/
 body header .nav-wrapper{
-  background-color: var(--nav-background-color);
-  color: var(--nav-text-color);
+  background-color: #a6160a;
+  color: #FFF;
 }
 body footer {
   background-color: var(--footer-background-color);
