@@ -212,8 +212,9 @@ header nav .nav-sections ul > li > a {
   font-size: 18px;
   color: var(--nav-text-color);
   text-decoration: none;
-  font-family: var(--body-font-family);
+  font-family: 'Adobe Clean Bold';
 }
+
 header nav .nav-sections ul > li > a:hover {
   color: var(--nav-text-color);
 }
