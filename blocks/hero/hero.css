@@ -40,7 +40,7 @@
   display: block;
   height: 5px;
   margin: 20px auto 30px;
-  width: 128px;
+  width: #a6150e;
   transition: width .4s ease-in-out;
 }
 
