@@ -35,12 +35,12 @@
 
 /* Special underline (only for h1 by default) */
 .hero h1::after {
-  background-color: var(--main-accent-color);
+  background-color: #a6150e;
   content: "";
   display: block;
   height: 5px;
   margin: 20px auto 30px;
-  width: #a6150e;
+  width: 100%;
   transition: width .4s ease-in-out;
 }
 
