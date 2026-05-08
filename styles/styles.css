@@ -663,6 +663,10 @@ main > .section:first-of-type {
   }
 }
 
+.section.hero-container {
+  margin-top: 90px;
+}
+
 /* section metadata */
 main .section.light,
 main .section.highlight {
