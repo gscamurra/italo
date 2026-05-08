@@ -663,7 +663,7 @@ main > .section:first-of-type {
   }
 }
 
-.section.hero-container {
+main > .section.hero-container {
   margin-top: 90px;
 }
 
