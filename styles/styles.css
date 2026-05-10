@@ -498,6 +498,10 @@ button {
   font-size: 20px;
 }
 
+.section.body img {
+  border-radius: 10px;
+}
+
 /* links */
 /* buttons */
 a, a:any-link, a.button:any-link,
