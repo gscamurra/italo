@@ -531,6 +531,8 @@ button {
 a[title="informazioni"] {
   color: #a6160a;
   float: right;
+  margin-right: 50px;
+  margin-top: 10px;
 }
 
 a[title="acquista"] {
@@ -539,6 +541,17 @@ a[title="acquista"] {
   padding: 10px 14px;
   border-radius: 5px;
   float: right;
+}
+
+a[title="informazioni"]:hover {
+  color: #a6160a;
+  text-decoration: none;
+}
+
+a[title="acquista"]:hover {
+  background-color: #a6160a;
+  color: #fff;
+  text-decoration: none;
 }
 
 a:hover,
