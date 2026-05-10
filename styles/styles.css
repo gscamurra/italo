@@ -527,22 +527,7 @@ button {
   white-space: nowrap;
   text-decoration: none;
 }
-a::after, a.button::after {
-  font-family: 'Font Awesome 5 Solid';
-  content: "\f105";
-  color: var(--link-color);
-  font-size: 16px;
-  font-weight: 100;
-  width: 15px;
-  height: 20px;
-  float: right;
-  margin-left: 0;
-  margin-top: 0;
-  border: none;
-  border-radius: 0;
-  padding: 1px 10px;
-  cursor: pointer;
-}
+
 a:hover,
 a:focus,
 a.button:hover,
