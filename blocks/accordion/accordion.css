@@ -19,6 +19,8 @@
   list-style: none;
   overflow: auto;
   transition: background-color 0.2s;
+  font-size: 23px;
+  font-weight: bold;
 }
 
 .accordion details[open] summary {
