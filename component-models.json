@@ -343,7 +343,15 @@
           {
             "name": "Light Color",
             "value": "bg-light"
-          }         
+          },
+          {
+            "name": "Italo - Breadcrumb",
+            "value": "breadcrumb"
+          },
+          {
+            "name": "Italo - Body",
+            "value": "body"
+          }          
         ]
       },
       {
