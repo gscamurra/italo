@@ -22,9 +22,10 @@ footer .footer p {
 }
 
 footer .footer img {
-  width: 100px;
+  width: 100%;
   height: auto;
   margin-bottom: 20px;
+  max-width: 647px;
 }
 
 footer .footer a {
