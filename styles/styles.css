@@ -389,6 +389,9 @@ body.blue-theme header .nav-wrapper nav .nav-sections ul > li > a::before{
 body.blue-theme header .nav-wrapper nav .nav-sections ul > li > a:hover{
   color: var(--text-light);
 }
+
+
+
 /*theme header-footer*/
 header {
   height: var(--nav-height);
@@ -480,6 +483,11 @@ textarea,
 select,
 button {
   font: inherit;
+}
+
+.section.breadcrumb a {
+  color: #a6160a;
+  font-weight: bold;
 }
 
 /* links */
