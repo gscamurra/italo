@@ -441,6 +441,8 @@ h3 {
 
 h4 {
   font-size: var(--heading-font-size-m);
+  margin-top: 0px;
+  margin-bottom: 30px;
 }
 
 h5 {
