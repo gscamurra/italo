@@ -485,6 +485,10 @@ button {
   font: inherit;
 }
 
+.section.breadcrumb {
+  font-size: 20px;
+} 
+
 .section.breadcrumb a {
   color: #a6160a;
   font-weight: bold;
