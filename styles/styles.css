@@ -528,6 +528,15 @@ button {
   text-decoration: none;
 }
 
+a[title="informazioni"] {
+  color: #a6160a;
+}
+
+a[title="acquista"] {
+  background-color: #a6160a;
+  color: #fff;
+}
+
 a:hover,
 a:focus,
 a.button:hover,
