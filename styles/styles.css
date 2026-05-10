@@ -535,6 +535,8 @@ a[title="informazioni"] {
 a[title="acquista"] {
   background-color: #a6160a;
   color: #fff;
+  padding: 10px 14px;
+  border-radius: 5px;
 }
 
 a:hover,
